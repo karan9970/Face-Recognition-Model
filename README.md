@@ -1,5 +1,5 @@
 # Face Recognition Model
-
+# Dataset : https://www.kaggle.com/datasets/trainingdatapro/age-detection-human-faces-18-60-years
 This repository contains the code for a face recognition model using TensorFlow and MobileNetV2. The model is trained to recognize faces from a dataset organized in training and testing directories. 
 
 ## Project Structure
